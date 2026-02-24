@@ -1,4 +1,4 @@
-# OS Command Injection & Remote Code Execution (Module 16)
+# OS Command Injection & Remote Code Execution
 
 ## 🎯 Executive Summary
 This laboratory demonstrates **OS Command Injection (RCE)** through improper input neutralization **(CWE-78)**. It highlights the critical danger of passing unsanitized user input directly to system shells. By chaining commands, an attacker can pivot from a restricted web application interface to full, underlying Operating System compromise.
